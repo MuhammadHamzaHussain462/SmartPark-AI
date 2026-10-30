@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
+*.bak
+
+models/*.pt
+models/*.pth
+
+*.mp4
+*.avi
+*.mov
+
+.env
+.DS_Store
